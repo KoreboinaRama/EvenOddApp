@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.cont {
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 60%;
+}
+.title {
+  color: #0f172a;
+  font-family: 'Robot';
+  font-size: 25px;
+  font-weight: bold;
+}
+.des {
+  color: #334155;
+  font-family: 'Robot';
+  font-size: 18px;
+}
